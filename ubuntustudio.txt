@@ -1,0 +1,7 @@
+Ubuntu studio is a free and open source software collection. Here have different types of software for audio, graphics, video, photography and publishing tool.
+
+For audio, there have JACK, Ardour, Sequencers and Synthesizers, Virtual Guitar Amps, Jack Session, Audio Programming tools.
+For graphics, there have Blender, Inkscape, GIMP, MyPaint, PikoPixel.
+For video, there have Openshot, FFMPEG, DVDStyler.
+For Photography, there have Darktable and Shotwell.
+For Publishing, there have Calibre, Scribus and LibreOffice.
